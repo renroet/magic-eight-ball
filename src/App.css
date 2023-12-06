@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.ball {
+  margin-top: 20px;
+  position: relative;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+
+}
+
+.msg {
+  margin-top: 42%;
+  margin-left: 2%;
+  margin-right: 2%;
+  position: absolute;
+  
+  justify-content: center;
+  color: white;
+}
